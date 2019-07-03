@@ -24,6 +24,8 @@ The training and testing model obtained from the above is then classified using 
 The accuracy for the above three classifiers is calculated 
 
 |Classifier|Accuracy(%)|
+|----------|-----------|
+
 |Naive Bayes Classifier|52.22|
 
 Naive Bayes Classifier               52.22
