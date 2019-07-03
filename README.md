@@ -7,7 +7,8 @@ The objective is to predict and label 100 Indian Law Judgements out of 999 Judge
 ## Data
 Data set -The link for the Judgement folder is given below and in folders Fixed Judgement.
 https://www.dropbox.com/s/vz5cnytqrz1acol/Fixed%20Judgements.zip?dl=0
-The link for mapping files as below and in file Interview_Mapping.csv
+
+The link for mapping files as below and in file Interview_Mapping.csv.
 https://www.dropbox.com/s/mxtntuct1ssg5l2/Interview_Mapping.csv?dl=0
 Coding is done is Python and different libraries like NLTK,Pandas,scikit-learn are used for the project.
 
