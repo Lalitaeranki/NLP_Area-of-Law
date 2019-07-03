@@ -25,10 +25,7 @@ The accuracy for the above three classifiers is calculated
 
 |Classifier|Accuracy(%)|
 |----------|-----------|
-
 |Naive Bayes Classifier|52.22|
-
-Naive Bayes Classifier               52.22
-Logistic Regression  Classifier      62.22
-Linear SVC                           60.75
+|Logistic Regression  Classifier|62.22|
+|Linear SVC|60.75|
 The prediction with Logistic Regression Classifier is more fit due to higher accuracy.
