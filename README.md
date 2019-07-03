@@ -22,7 +22,10 @@ The training and testing model obtained from the above is then classified using 
 
 ## Measuring model results/accuracy 
 The accuracy for the above three classifiers is calculated 
-Classifier                           Accuracy(%)
+
+|Classifier|Accuracy(%)|
+|:----------:|:------------:|
+
 Naive Bayes Classifier               52.22
 Logistic Regression  Classifier      62.22
 Linear SVC                           60.75
